@@ -1,4 +1,4 @@
-# Project Title
+# Enterprise Value to Sales Ratio (Stock Price) Prediction project
 
 A traditional measure of whether a stock is expensive or cheap, is to use a valuation multiple. <br>
 A valuation multiple relates the market value of an asset relative to a key statistic that is assumed to relate to that value. <br>
